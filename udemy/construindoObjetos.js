@@ -33,3 +33,4 @@ function Produto(nome, preco, estoque){
 const produto1 = new Produto("Camiseta", 50, 3)
 produto1.estoque = 10
 console.log(produto1)
+
